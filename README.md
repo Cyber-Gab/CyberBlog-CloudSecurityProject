@@ -23,9 +23,10 @@ WAF Understanding: Compared Azure Web Application Gateway (regional) and Azure F
 SSL Offloading: Explained offloading SSL decryption to improve web server performance.
 WAF Rule Analysis: Explored SQL Injection vulnerabilities and how my website (without user input) is currently not susceptible.
 Custom WAF Rule (Hypothetical): Discussed limitations of geo-blocking rules like Canadian users potentially using VPNs.
-Screenshots included:
 
-(Add screenshots demonstrating your WAF custom rule here)
+Screenshots included:
+In the document
+
 Future Charges:
 
 I understand my responsibility for maintaining or disabling the website after the project. I've reviewed Azure cost management guidance.
